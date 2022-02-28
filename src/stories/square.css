@@ -1,0 +1,11 @@
+.storybook-square {
+    height: 100px;
+    width: 100px;
+    border: solid 3px purple;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-radius: 5px;
+}
